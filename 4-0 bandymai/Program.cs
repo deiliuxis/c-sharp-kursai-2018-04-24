@@ -84,7 +84,7 @@ namespace _4_0_bandymai
             Console.WriteLine(jj);
             Console.WriteLine(hhhh);
 
-
+            // gnfdsjfdjfdbgfdbjfdsbgjdsbjfdsbjgfzd;zsf
     
 
 
