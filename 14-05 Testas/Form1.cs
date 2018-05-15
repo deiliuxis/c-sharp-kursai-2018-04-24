@@ -206,6 +206,8 @@ namespace _14_05_Testas
 
 
 
+
+
             }
             else
             {
@@ -241,6 +243,11 @@ namespace _14_05_Testas
         {
             Counteris--;
             
+        }
+
+        private void PirmaForma_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
